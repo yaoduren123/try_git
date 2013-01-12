@@ -1,2 +1,5 @@
 this is test!
+<<<<<<< HEAD
 what is your age
+=======
+>>>>>>> 38e335658f26a2189b318ea97b4a658c57b8893a
